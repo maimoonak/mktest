@@ -18,7 +18,7 @@ import java.util.Map;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openmrs.module.Extension.MEDIA_TYPE;
-import org.openmrs.module.basicmodule.extension.html.AdminList;
+import org.openmrs.module.myFirstModule.extension.html.AdminList;
 
 /**
  * This test validates the AdminList extension class
